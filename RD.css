@@ -1,0 +1,120 @@
+
+
+body
+{
+	width:100%;
+	height:100%;
+	font-family:"Arial Black";
+	text-transform:capitalize;
+	letter-spacing:0px;
+	word-spacing:1px;
+	
+
+}
+.topic
+{
+	color:red;
+	text-align:center;
+	font-size:75px;
+	text-decoration:none;
+	width:100%;
+	float:center;
+}
+#header
+{
+	background-color:red;
+	height:55px;
+	border-color:black;
+	
+}
+ul li
+{
+	float:right;
+	text-decoration:none;
+	color:blue;
+	padding:29px 12px 3px 12px;
+	list-style-type:none;
+	font-family:"Arial Black";
+	background-color:red;
+	
+} 
+ul li:hover
+{
+	color:blue;
+	background-color:white;
+	text-decoration:underline;
+}
+#icon 
+{
+	background-color:red;
+	color:yellow;
+	height:60px;
+	margin-left:0px;
+	float:left;
+	background-color:red;
+	border-radius:50%;
+	padding:30px;
+	border-color:red;
+	
+}
+#bg
+{
+	width:100%;
+	height:100%;
+}
+	
+#intro
+{
+	font-size:28px;
+}
+.in
+{
+	font-size:23px;
+	text-decoration:underline;
+	color:red;
+}
+.ans
+{
+	text-indent:15%;
+} 
+a
+{
+	text-decoration:none;
+	color:black;
+}	
+.region
+{
+	margin-left:50px;
+	color:blue;
+	text-decoration:none;
+	
+}
+.region:hover
+{
+	color:red;
+	background-color:white;
+	text-decoration:underline;
+}
+#region
+{
+	color:red;
+	text-align:center;
+	font-size:75px;
+	text-decoration:none;
+	width:100%;
+	float:center;
+	
+}
+.an
+{
+	font-size:23px;
+	text-decoration:underline;
+	color:orange;
+}
+.gym
+{
+	color:brown;
+	font-size:30px;
+	text-transform:uppercase;
+}	
+	
